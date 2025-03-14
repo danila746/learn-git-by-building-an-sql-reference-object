@@ -46,3 +46,5 @@ git add README.md
 git status
 touch sql_reference.json
 git status
+gid add sql_reference.json
+git add sql_reference.json
