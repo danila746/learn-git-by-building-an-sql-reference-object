@@ -50,3 +50,4 @@ gid add sql_reference.json
 git add sql_reference.json
 __vsc_prompt_cmd_original
 git status
+git commit -m "Initial commit"
