@@ -65,3 +65,5 @@ nano sql_reference.json
 git status
 git diff
 git add sql_reference.json
+__vsc_prompt_cmd_original
+git commit -m "feat: add drop database reference"
