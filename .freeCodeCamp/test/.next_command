@@ -55,3 +55,4 @@ git status
 git log
 ls --color=auto
 nano sql_reference.json
+git status
