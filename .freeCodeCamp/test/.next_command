@@ -39,3 +39,5 @@ git status
 git checkout -b main
 git status
 touch README.md
+ls --color=auto
+nano README.md
