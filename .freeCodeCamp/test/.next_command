@@ -62,3 +62,4 @@ git status
 git commit -m "feat: add create database reference"
 git log
 nano sql_reference.json
+git status
