@@ -78,3 +78,6 @@ git diff
 nano sql_reference.json
 git status
 git diff
+cd..
+cd ..
+git add .
