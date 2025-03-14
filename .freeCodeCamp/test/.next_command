@@ -77,3 +77,4 @@ nano sql_reference.json
 git diff
 nano sql_reference.json
 git status
+git diff
