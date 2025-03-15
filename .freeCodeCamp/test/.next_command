@@ -137,3 +137,4 @@ git branch -d feat/add-drop-table-reference
 git checkout -b feat/add-drop-table-reference
 git branch
 nano sql_reference.json
+git status
