@@ -169,3 +169,5 @@ git branch
 git merge fix/create-table-syntax
 git branch
 git log --oneline
+git branch
+git branch -d fix/create-table-syntax
