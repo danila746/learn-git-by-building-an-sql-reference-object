@@ -149,3 +149,4 @@ git merge feat/add-drop-table-reference
 git branch -d feat/add-drop-table-reference
 git checkout -b feat/add-column-references
 nano sql_reference.json
+git diff
