@@ -119,3 +119,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git add sql_reference.json
 cd sql_reference/
 git add sql_reference.json
+git commit - m "feat: add create table reference"
+git commit -m "feat: add create table reference"
