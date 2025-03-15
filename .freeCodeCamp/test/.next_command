@@ -146,3 +146,4 @@ git checkout main
 git branch
 __vsc_prompt_cmd_original
 git merge feat/add-drop-table-reference
+git branch -d feat/add-drop-table-reference
