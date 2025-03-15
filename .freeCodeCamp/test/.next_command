@@ -177,3 +177,5 @@ git branch
 git log --oneline
 git rebase main
 git log --oneline
+nano sql_reference.json
+nano sql_reference.json
