@@ -131,3 +131,7 @@ git merge feat/add-create-table-reference
 git log --oneline
 git branch -d feat/add-create-table-reference
 git branch
+git branch " feat/add-drop-table-reference"
+git branch feat/add-drop-table-reference
+git branch -d feat/add-drop-table-reference
+git checkout -b feat/add-drop-table-reference
