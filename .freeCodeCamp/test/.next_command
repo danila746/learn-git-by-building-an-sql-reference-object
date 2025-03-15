@@ -148,3 +148,4 @@ __vsc_prompt_cmd_original
 git merge feat/add-drop-table-reference
 git branch -d feat/add-drop-table-reference
 git checkout -b feat/add-column-references
+nano sql_reference.json
