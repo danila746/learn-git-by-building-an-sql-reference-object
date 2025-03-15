@@ -173,3 +173,5 @@ git branch
 git branch -d fix/create-table-syntax
 git branch
 git checkout feat/add-column-references
+git branch
+git log --oneline
