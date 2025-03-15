@@ -160,3 +160,6 @@ git checkout main
 git branch
 git checkout -b fix/create-table-syntax
 nano sql_reference.json
+git status
+git diff
+git add sql_reference.json
