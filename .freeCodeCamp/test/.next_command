@@ -151,3 +151,4 @@ git checkout -b feat/add-column-references
 nano sql_reference.json
 git diff
 git add sql_reference.json
+git commit -m "feat: add column reference"
