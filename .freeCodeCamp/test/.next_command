@@ -157,3 +157,5 @@ git log --oneline
 git branch main
 git checkout
 git checkout main
+git branch
+git checkout -b fix/create-table-syntax
