@@ -152,3 +152,5 @@ nano sql_reference.json
 git diff
 git add sql_reference.json
 git commit -m "feat: add column reference"
+git log
+git log --oneline
