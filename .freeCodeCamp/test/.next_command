@@ -176,3 +176,4 @@ git checkout feat/add-column-references
 git branch
 git log --oneline
 git rebase main
+git log --oneline
