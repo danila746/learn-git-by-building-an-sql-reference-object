@@ -249,3 +249,4 @@ git rebase --continue
 git log --oneline
 git diff
 git status
+git commit -m "feat: add rename column reference"
