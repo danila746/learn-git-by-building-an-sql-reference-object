@@ -244,3 +244,4 @@ git checkout feat/add-column-references
 git diff
 git status
 git add sql_reference.json
+git status
