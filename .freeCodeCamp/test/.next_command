@@ -250,3 +250,10 @@ git log --oneline
 git diff
 git status
 git commit -m "feat: add rename column reference"
+git checkout main
+git branch
+git checkout feat/add-insert-row-reference
+git add sql_reference.json
+git checkout feat/add-insert-row-reference
+git commit -m "feat: add rename column reference"
+git checkout feat/add-insert-row-reference
