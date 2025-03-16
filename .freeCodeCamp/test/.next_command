@@ -273,3 +273,4 @@ git stash show apply
 git stash apply
 git stash list
 git stash
+git stash list
