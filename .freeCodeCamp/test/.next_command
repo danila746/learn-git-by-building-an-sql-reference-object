@@ -278,3 +278,4 @@ git stash show
 git stash show -p
 git stash show stash@{1}
 git stash show stash@{1} -p
+git stash drop stash@{1}
