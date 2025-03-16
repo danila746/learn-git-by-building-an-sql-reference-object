@@ -269,3 +269,5 @@ __vsc_prompt_cmd_original
 git stash list
 git stash show
 git stash show -p
+git stash show apply
+git stash apply
