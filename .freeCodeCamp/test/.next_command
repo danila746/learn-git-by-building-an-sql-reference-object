@@ -248,3 +248,4 @@ git status
 git rebase --continue
 git log --oneline
 git diff
+git status
