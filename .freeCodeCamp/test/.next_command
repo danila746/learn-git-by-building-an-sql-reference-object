@@ -242,3 +242,4 @@ git log --oneline
 git checkout main
 git checkout feat/add-column-references
 git diff
+git status
