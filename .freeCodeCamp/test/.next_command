@@ -262,3 +262,4 @@ git stash
 git status
 git stash list
 git stash pop
+git stash list
